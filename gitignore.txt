@@ -1,0 +1,9 @@
+*
+!*.*
+!*/
+.vscode
+.cph
+*.exe
+tempCodeRunnerFile.*
+test.*
+temp.*
