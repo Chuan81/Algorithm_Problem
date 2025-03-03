@@ -4,7 +4,6 @@ using namespace std;
 bool isSu[2025];
 bool isYue[2025];
 
-
 int main()
 {
 	long long cnt =0;
